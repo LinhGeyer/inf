@@ -1,1 +1,2 @@
 # inf
+Code zum weiterverwenden
